@@ -1,4 +1,4 @@
-## SQL Aggregation: Student Grades Analysis
+### SQL Aggregation: Student Grades Analysis
 
 A collection of SQL queries that practice core aggregation concepts (COUNT, AVG, MAX, MIN, GROUP BY, and HAVING) against a student grades dataset of 500 records.
 
