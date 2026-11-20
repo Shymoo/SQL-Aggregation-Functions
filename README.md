@@ -12,9 +12,8 @@ Runs 19 aggregation queries grouped into three difficulty levels: basic, interme
 
 The dataset was loaded with the "Table Data Import Wizard" rather than INSERT statements.
 
-## Query Index
+
 ## Basic Questions
-#	Question	Key Functions
 1	Total number of records	COUNT(*)
 2	Average grade of all students	AVG()
 3	Highest grade obtained	MAX()
@@ -26,14 +25,12 @@ The dataset was loaded with the "Table Data Import Wizard" rather than INSERT st
 9	Minimum grade for each department	MIN(), GROUP BY
 10	Number of courses taken by each student	COUNT(DISTINCT), GROUP BY
 ## Intermediate Questions
-#	Question	Key Functions
 11	Courses with average grade greater than 75	HAVING AVG()
 12	Students who have taken more than 3 courses	HAVING COUNT(DISTINCT)
 13	Departments with average grade less than 65	HAVING AVG()
 14	Students whose maximum grade is 100	HAVING MAX()
 15	Courses taken by at least 20 students	HAVING COUNT(DISTINCT)
 ## Advanced Questions
-#	Question	Key Functions
 16	Students with at least 4 courses and average grade above 80	Multiple conditions in HAVING
 17	Departments where the maximum grade is at least twice the average	HAVING with arithmetic
 18	Courses with average grade above the overall average	Subquery in HAVING
