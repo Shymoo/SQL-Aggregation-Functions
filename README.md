@@ -42,7 +42,6 @@ Query Results
 Creating the database and table
 
 Creating the SQL_Aggregation database and Students_Grades table
-<img width="1220" height="770" alt="Screenshot 2026-11-20 at 21 09 09" src="https://github.com/user-attachments/assets/9ac2a0ef-5517-42de-a714-83e4900e6d95" />
 
 <img width="1224" height="787" alt="Screenshot 2026-11-20 at 21 11 24" src="https://github.com/user-attachments/assets/8861ab76-ced6-4c9b-b1ee-38e4e5ac5b31" />
 
