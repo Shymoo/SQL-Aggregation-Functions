@@ -1,0 +1,54 @@
+## A S S I G N M E N T O V E R V I E W
+
+SQL Aggregation Functions, GROUP BY & HAVING:
+This assignment focuses on SQL aggregation functions and how they are
+used with
+GROUP BY and HAVING to analyze and summarize data.
+Instead of displaying individual rows, you will learn how to write queries
+that produce meaningful summaries, such as totals, averages, counts, and
+comparisons across different categories.
+
+By completing this assignment, you will be able to:
+Use aggregation functions such as
+COUNT(), SUM(), AVG(), MAX(), and MIN()
+Group data correctly using GROUP BY
+Filter aggregated results using HAVING
+Understand the difference between WHERE and HAVING
+Write correct and well-structured analytical SQL queries
+
+Load the provided dataset into your database
+Read each question carefully
+Identify whether GROUP BY and/or HAVING is required
+Focus on understanding the logic behind each query
+O B J E C T I V E S O F T H I S A S S I G N M E N T
+
+H O W T O W O R K O N T H I S A S S I G N M E N T
+
+Open the provided link and download the dataset files.
+https://drive.google.com/file/d/16KdsnhdpD_Q2PSDfO1f27VmqvePPMTD5/
+view?usp=drive_link
+Questions:
+A- Basic Questions:
+1- Query the total number of records.
+2- Query the average grade of all students.
+3- Query the highest grade obtained.
+4- Query the lowest grade obtained.
+5- Query the number of distinct students.
+6- Query the average grade for each course.
+7- Query the number of students in each department.
+8- Query the maximum grade for each course.
+9- Query the minimum grade for each department.
+10- Query the number of courses taken by each student.
+B- Intermediate Questions:
+11- Query courses where the average grade is greater than 75.
+12- Query students who have taken more than 3 courses.
+13- Query departments where the average grade is less than 65.
+14- Query students whose maximum grade is 100.
+15- Query courses that have been taken by at least 20 students.
+C- Advanced Questions:
+16- Query students who have taken at least 4 courses and whose average grade is
+greater than 80.
+17- Query departments where the maximum grade is at least twice the average
+grade.
+18- Query courses whose average grade is higher than the overall average grade.
+19- Query students whose lowest grade is greater than 70.
